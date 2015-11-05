@@ -114,7 +114,7 @@ For this to work, you have to make sure you set the `process.title` variable in 
 #### Author: [Charlie Robbins](http://blog.nodejitsu.com)
 #### Contributors: [Squeeks](https://github.com/squeeks)
 
-[0]: https://github.com/indexzero/winston
+[0]: https://github.com/winstonjs/winston
 [1]: http://www.ietf.org/rfc/rfc3164.txt
 [2]: http://tools.ietf.org/html/rfc5424
 [3]: https://github.com/squeeks/glossy
